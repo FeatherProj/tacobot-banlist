@@ -12,5 +12,9 @@ Tacobot is the toxic group who uploads the mvm newbies/rude person to their own 
 ## Our Request
 **We ask you not to use this project to insult the players publicly** who participated in Tacobot activities. If we do the same, it is no difference with Tacobot, so please don't do it. This project is just for listing the tacobot players for admins to easily ban them from their servers, not to insult them publicly.
 
+## Special thanks
+- [Valve](https://www.valvesoftware.com/) - For creating Team Fortress 2
+- [Stevenson13](https://github.com/Stevenson13) - For providing [huge list of tacobot player list](https://github.com/Stevenson13/tacobot-detection)
+
 ## License
 This banlist is licensed under MIT License, so you can freely use our banlist preset!
